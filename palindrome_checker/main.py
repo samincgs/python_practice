@@ -17,7 +17,7 @@ def palindrome_checker(word):
     
     return "It is a not palindrome"
     
-
+# test cases
 print(palindrome_checker('Noon'))
 print(palindrome_checker('Racecar'))
 print(palindrome_checker('Level'))
