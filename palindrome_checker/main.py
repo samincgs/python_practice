@@ -1,5 +1,5 @@
+# Palindrome Checker: Write a function to check if a given string is a palindrome.
 
-# racecar level
 def palindrome_checker(word):
     print('The word is:', word)
     single_letters = list(word.lower())
